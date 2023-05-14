@@ -1,0 +1,18 @@
+/*Stylesheet for Odin Recipes*/
+
+p {
+    font-family: "Trebuchet MS", sans-serif;
+    max-width: 30%;
+    min-width: 300px;
+}
+
+li {
+    font-family:  "Trebuchet MS", sans-serif;
+    max-width: 30%;
+    min-width: 300px;
+}
+
+body{
+    background-color: #00ffff45;
+    
+}
